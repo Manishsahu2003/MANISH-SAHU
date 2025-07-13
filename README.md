@@ -78,7 +78,7 @@ VS Code, Figma, Canva, Postman, GitHub, AWS Console
 ## 💼 Leadership & Involvement
 
 - 📢 **Social Media Lead** – CII Club, GITS  
-- 🧭 **Campus Ambassador** – LinuxWorld Infotech, Bangalore  
+- 🧭 **Campus Ambassador** – LinuxWorld Infotech, JAIPUR  
 - 🤝 Active contributor to campus innovation teams and national hackathons  
 
 ---
